@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{20ADC978-2278-4A0B-B806-2618383F0D1C}"
+	ProjectSection(SolutionItems) = preProject
+		..\Agent List.csv = ..\Agent List.csv
+		..\Agent Transaction List.csv = ..\Agent Transaction List.csv
+		..\AlphaInvestments.sql = ..\AlphaInvestments.sql
+		..\Buy Transactions.csv = ..\Buy Transactions.csv
+		..\Card Format Legality.txt = ..\Card Format Legality.txt
+		..\Card Text Simplified list.txt = ..\Card Text Simplified list.txt
+		..\Cards In Stock 1.1.2018.txt = ..\Cards In Stock 1.1.2018.txt
+		..\Cards Only Simplified list.txt = ..\Cards Only Simplified list.txt
+		..\Customer List.csv = ..\Customer List.csv
+		..\Customer Query.csv = ..\Customer Query.csv
+		..\Event List.csv = ..\Event List.csv
+		..\Sales Transactions.csv = ..\Sales Transactions.csv
+		..\Set Release Dates.csv = ..\Set Release Dates.csv
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentation Files", "Documentation Files", "{CF732D46-8A72-4A79-A010-78637FE2968B}"
+	ProjectSection(SolutionItems) = preProject
+		..\Alpha Investments Data Warehouse Objects Worksheet.xlsx = ..\Alpha Investments Data Warehouse Objects Worksheet.xlsx
+		..\Alpha Investments Solution Doc.docx = ..\Alpha Investments Solution Doc.docx
+		..\Alpha Investments Star Schema.vsdx = ..\Alpha Investments Star Schema.vsdx
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CF732D46-8A72-4A79-A010-78637FE2968B} = {20ADC978-2278-4A0B-B806-2618383F0D1C}
+	EndGlobalSection
+EndGlobal
