@@ -1,0 +1,1000 @@
+1	Mysteries of the Deep	Worldwake	non-foil	57
+2	Harmless Assault	Rise of the Eldrazi	non-foil	94
+3	Lay Bare	Rise of the Eldrazi	non-foil	3
+4	Living Destiny	Rise of the Eldrazi	non-foil	38
+5	Instill Infection	Scars of Mirrodin	non-foil	67
+6	Blunt the Assault	Scars of Mirrodin	non-foil	81
+7	Banishment Decree	Mirrodin Besieged	non-foil	87
+8	Frantic Salvage	Mirrodin Besieged	non-foil	45
+9	Fuel for the Cause	Mirrodin Besieged	non-foil	28
+10	Quicksilver Geyser	Mirrodin Besieged	non-foil	58
+11	War Report	New Phyrexia	non-foil	34
+12	Artillerize	New Phyrexia	non-foil	23
+13	Smite the Monstrous	Innistrad	non-foil	66
+14	Lost in the Mist	Innistrad	non-foil	29
+15	Griptide	Dark Ascension	non-foil	19
+16	Angel's Mercy	Avacyn Restored	non-foil	14
+17	Geist Snatch	Avacyn Restored	non-foil	2
+18	Thunderous Wrath	Avacyn Restored	non-foil	22
+19	Eyes in the Skies	Return to Ravnica	non-foil	2
+20	Trostani's Judgment	Return to Ravnica	non-foil	71
+21	Inspiration	Return to Ravnica	non-foil	27
+22	Launch Party	Return to Ravnica	non-foil	30
+23	Explosive Impact	Return to Ravnica	non-foil	75
+24	Chorus of Might	Return to Ravnica	non-foil	70
+25	Essence Backlash	Return to Ravnica	non-foil	56
+26	Scatter Arc	Gatecrash	non-foil	12
+27	Grisly Spectacle	Gatecrash	non-foil	48
+28	Mindstatic	Dragon's Maze	non-foil	22
+29	Fatal Fumes	Dragon's Maze	non-foil	68
+30	Punish the Enemy	Dragon's Maze	non-foil	8
+31	Lash of the Whip	Theros	non-foil	46
+32	Boulderfall	Theros	non-foil	39
+33	Sudden Storm	Born of the Gods	non-foil	49
+34	Countermand	Journey into Nyx	non-foil	31
+35	Riddle of Lightning	Journey into Nyx	non-foil	14
+36	Starfall	Journey into Nyx	non-foil	6
+37	Spoils of the Vault	Mirrodin	non-foil	72
+38	Retract	Darksteel	non-foil	17
+39	Oxidize	Darksteel	non-foil	84
+40	Magnetic Theft	Fifth Dawn	non-foil	20
+41	Reciprocate	Champions of Kamigawa	non-foil	80
+42	Hail of Arrows	Saviors of Kamigawa	non-foil	95
+43	One with Nothing	Saviors of Kamigawa	non-foil	63
+44	Festival of the Guildpact	Ravnica: City of Guilds	non-foil	72
+45	Darkblast	Ravnica: City of Guilds	non-foil	62
+46	Quicken	Guildpact	non-foil	42
+47	Condemn	Dissension	non-foil	85
+48	Spell Snare	Dissension	non-foil	51
+49	Weight of Spires	Dissension	non-foil	26
+50	Luminesce	Coldsnap	non-foil	9
+51	Balduvian Rage	Coldsnap	non-foil	0
+52	Angel's Grace	Time Spiral	non-foil	77
+53	Pull from Eternity	Time Spiral	non-foil	12
+54	Moonlace	Time Spiral	non-foil	87
+55	Spell Burst	Time Spiral	non-foil	59
+56	Might of Old Krosa	Time Spiral	non-foil	68
+57	Rebuff the Wicked	Planar Chaos	non-foil	92
+58	Pongify	Planar Chaos	non-foil	58
+59	Venarian Glimmer	Planar Chaos	non-foil	67
+60	Extirpate	Planar Chaos	non-foil	73
+61	Timecrafting	Planar Chaos	non-foil	73
+62	Scout's Warning	Future Sight	non-foil	13
+63	Dream Salvage	Shadowmoor	non-foil	20
+64	Guttural Response	Shadowmoor	non-foil	73
+65	Path to Exile	Conflux	non-foil	58
+66	Brave the Elements	Zendikar	non-foil	51
+67	Unstable Footing	Zendikar	non-foil	90
+68	Primal Bellow	Zendikar	non-foil	25
+69	Suffer the Past	Rise of the Eldrazi	non-foil	3
+70	Twisted Image	Scars of Mirrodin	non-foil	62
+71	Dispatch	New Phyrexia	non-foil	26
+72	Marrow Shards	New Phyrexia	non-foil	11
+73	Surgical Extraction	New Phyrexia	non-foil	49
+74	Noxious Revival	New Phyrexia	non-foil	96
+75	Purify the Grave	Innistrad	non-foil	84
+76	Faith's Shield	Dark Ascension	non-foil	96
+77	Divine Deflection	Avacyn Restored	non-foil	87
+78	Human Frailty	Avacyn Restored	non-foil	75
+79	Blustersquall	Return to Ravnica	non-foil	55
+80	Street Spasm	Return to Ravnica	non-foil	51
+81	Gridlock	Gatecrash	non-foil	8
+82	Rapid Hybridization	Gatecrash	non-foil	19
+83	Killing Glare	Gatecrash	non-foil	40
+84	Swan Song	Theros	non-foil	57
+85	Triton Tactics	Theros	non-foil	84
+86	Dark Betrayal	Theros	non-foil	14
+87	Coordinated Assault	Theros	non-foil	94
+88	Warriors' Lesson	Theros	non-foil	79
+89	Glimpse the Sun God	Born of the Gods	non-foil	23
+90	Kiora's Dismissal	Journey into Nyx	non-foil	18
+91	Awe Strike	Mirrodin	non-foil	21
+92	Annul	Mirrodin	non-foil	78
+93	Disarm	Mirrodin	non-foil	1
+94	Dream's Grip	Mirrodin	non-foil	14
+95	Electrostatic Bolt	Mirrodin	non-foil	60
+96	Battlegrowth	Mirrodin	non-foil	41
+97	Turn to Dust	Mirrodin	non-foil	55
+98	Hallow	Darksteel	non-foil	41
+99	Inflame	Darksteel	non-foil	45
+100	Stand Firm	Fifth Dawn	non-foil	85
+101	Condescend	Fifth Dawn	non-foil	61
+102	Lose Hope	Fifth Dawn	non-foil	17
+103	Mending Hands	Betrayers of Kamigawa	non-foil	90
+104	Wojek Siren	Ravnica: City of Guilds	non-foil	58
+105	Dizzy Spell	Ravnica: City of Guilds	non-foil	43
+106	Disembowel	Ravnica: City of Guilds	non-foil	49
+107	Surge of Zeal	Ravnica: City of Guilds	non-foil	31
+108	Gather Courage	Ravnica: City of Guilds	non-foil	46
+109	Gigadrowse	Guildpact	non-foil	97
+110	Repeal	Guildpact	non-foil	18
+111	Cremate	Guildpact	non-foil	7
+112	Valor Made Real	Dissension	non-foil	38
+113	Thermal Flux	Coldsnap	non-foil	89
+114	Skred	Coldsnap	non-foil	30
+115	Clockspinning	Time Spiral	non-foil	99
+116	Lightning Axe	Time Spiral	non-foil	28
+117	Molder	Time Spiral	non-foil	86
+118	Sprout	Time Spiral	non-foil	98
+119	Thrill of the Hunt	Time Spiral	non-foil	41
+120	Mana Tithe	Planar Chaos	non-foil	68
+121	Piracy Charm	Planar Chaos	non-foil	82
+122	Midnight Charm	Planar Chaos	non-foil	27
+123	Brute Force	Planar Chaos	non-foil	45
+124	Healing Leaves	Planar Chaos	non-foil	40
+125	Broken Ambitions	Lorwyn	non-foil	53
+126	Needle Drop	Lorwyn	non-foil	82
+127	Coordinated Barrage	Morningtide	non-foil	49
+128	Kindled Fury	Morningtide	non-foil	51
+129	Shard Volley	Morningtide	non-foil	33
+130	Niveous Wisps	Shadowmoor	non-foil	95
+131	Strip Bare	Shadowmoor	non-foil	19
+132	Cerulean Wisps	Shadowmoor	non-foil	56
+133	Aphotic Wisps	Shadowmoor	non-foil	99
+134	Crimson Wisps	Shadowmoor	non-foil	42
+135	Viridescent Wisps	Shadowmoor	non-foil	69
+136	Scar	Shadowmoor	non-foil	68
+137	Barkshell Blessing	Shadowmoor	non-foil	52
+138	Banishing Knack	Eventide	non-foil	97
+139	Beckon Apparition	Eventide	non-foil	9
+140	Shadowfeed	Shards of Alara	non-foil	15
+141	Magma Spray	Shards of Alara	non-foil	91
+142	Constricting Tendrils	Conflux	non-foil	82
+143	Might of Alara	Conflux	non-foil	41
+144	Shieldmate's Blessing	Zendikar	non-foil	17
+145	Vampire's Bite	Zendikar	non-foil	8
+146	Burst Lightning	Zendikar	non-foil	44
+147	Vines of Vastwood	Zendikar	non-foil	89
+148	Veteran's Reflexes	Worldwake	non-foil	42
+149	Dispel	Worldwake	non-foil	94
+150	Bull Rush	Worldwake	non-foil	19
+151	Groundswell	Worldwake	non-foil	34
+152	Nature's Claim	Worldwake	non-foil	6
+153	Emerge Unscathed	Rise of the Eldrazi	non-foil	69
+154	Smite	Rise of the Eldrazi	non-foil	31
+155	Aura Finesse	Rise of the Eldrazi	non-foil	37
+156	Fleeting Distraction	Rise of the Eldrazi	non-foil	61
+157	Vendetta	Rise of the Eldrazi	non-foil	0
+158	Virulent Swipe	Rise of the Eldrazi	non-foil	37
+159	Heat Ray	Rise of the Eldrazi	non-foil	83
+160	Leaf Arrow	Rise of the Eldrazi	non-foil	34
+161	Prey's Vengeance	Rise of the Eldrazi	non-foil	95
+162	Seize the Initiative	Scars of Mirrodin	non-foil	85
+163	Turn Aside	Scars of Mirrodin	non-foil	60
+164	Vault Skyward	Scars of Mirrodin	non-foil	19
+165	Tainted Strike	Scars of Mirrodin	non-foil	97
+166	Galvanic Blast	Scars of Mirrodin	non-foil	77
+167	Untamed Might	Scars of Mirrodin	non-foil	38
+168	Wing Puncture	Scars of Mirrodin	non-foil	71
+169	Withstand Death	Scars of Mirrodin	non-foil	78
+170	Steel Sabotage	Mirrodin Besieged	non-foil	34
+171	Virulent Wound	Mirrodin Besieged	non-foil	53
+172	Crush	Mirrodin Besieged	non-foil	96
+173	Mirran Mettle	Mirrodin Besieged	non-foil	91
+174	Unnatural Predation	Mirrodin Besieged	non-foil	39
+175	Vapor Snag	New Phyrexia	non-foil	70
+176	Gut Shot	New Phyrexia	non-foil	9
+177	Mutagenic Growth	New Phyrexia	non-foil	33
+178	Dream Twist	Innistrad	non-foil	35
+179	Geistflame	Innistrad	non-foil	84
+180	Ranger's Guile	Innistrad	non-foil	41
+181	Saving Grasp	Dark Ascension	non-foil	0
+182	Thought Scour	Dark Ascension	non-foil	19
+183	Tragic Slip	Dark Ascension	non-foil	29
+184	Undying Evil	Dark Ascension	non-foil	4
+185	Hunger of the Howlpack	Dark Ascension	non-foil	3
+186	Cloudshift	Avacyn Restored	non-foil	42
+187	Outwit	Avacyn Restored	non-foil	37
+188	Death Wind	Avacyn Restored	non-foil	8
+189	Banners Raised	Avacyn Restored	non-foil	6
+190	Joint Assault	Avacyn Restored	non-foil	15
+191	Snare the Skies	Avacyn Restored	non-foil	93
+192	Swift Justice	Return to Ravnica	non-foil	75
+193	Downsize	Return to Ravnica	non-foil	23
+194	Mizzium Skin	Return to Ravnica	non-foil	92
+195	Dynacharge	Return to Ravnica	non-foil	97
+196	Electrickery	Return to Ravnica	non-foil	73
+197	Shielded Passage	Gatecrash	non-foil	64
+198	Furious Resistance	Gatecrash	non-foil	84
+199	Burst of Strength	Gatecrash	non-foil	94
+200	Bioshift	Gatecrash	non-foil	90
+201	Weapon Surge	Dragon's Maze	non-foil	7
+202	Mending Touch	Dragon's Maze	non-foil	0
+203	Mutant's Prey	Dragon's Maze	non-foil	96
+204	Gods Willing	Theros	non-foil	28
+205	Lost in a Labyrinth	Theros	non-foil	98
+206	Boon of Erebos	Theros	non-foil	81
+207	Spark Jolt	Theros	non-foil	11
+208	Titan's Strength	Theros	non-foil	27
+209	Mortal's Ardor	Born of the Gods	non-foil	74
+210	Retraction Helix	Born of the Gods	non-foil	22
+211	Eye Gouge	Born of the Gods	non-foil	86
+212	Aspect of Hydra	Born of the Gods	non-foil	58
+213	Ajani's Presence	Journey into Nyx	non-foil	86
+214	Aerial Formation	Journey into Nyx	non-foil	42
+215	Cruel Feeding	Journey into Nyx	non-foil	26
+216	Rouse the Mob	Journey into Nyx	non-foil	57
+217	Nature's Panoply	Journey into Nyx	non-foil	1
+218	Tempest of Light	Mirrodin	non-foil	1
+219	Thirst for Knowledge	Mirrodin	non-foil	96
+220	Grim Reminder	Mirrodin	non-foil	22
+221	Pulse of the Fields	Darksteel	non-foil	67
+222	Pulse of the Grid	Darksteel	non-foil	16
+223	Second Sight	Darksteel	non-foil	77
+224	Pulse of the Forge	Darksteel	non-foil	40
+225	Shunt	Darksteel	non-foil	10
+226	Vanquish	Fifth Dawn	non-foil	78
+227	Hold the Line	Champions of Kamigawa	non-foil	78
+228	Hinder	Champions of Kamigawa	non-foil	9
+229	Hanabi Blast	Champions of Kamigawa	non-foil	28
+230	Flames of the Blood Hand	Betrayers of Kamigawa	non-foil	45
+231	Devouring Light	Ravnica: City of Guilds	non-foil	31
+232	Char	Ravnica: City of Guilds	non-foil	83
+233	Chord of Calling	Ravnica: City of Guilds	non-foil	85
+234	Congregation at Dawn	Ravnica: City of Guilds	non-foil	30
+235	Putrefy	Ravnica: City of Guilds	non-foil	83
+236	Ghostway	Guildpact	non-foil	74
+237	Thunderheads	Guildpact	non-foil	98
+238	Crash Landing	Guildpact	non-foil	45
+239	Cerebral Vortex	Guildpact	non-foil	69
+240	Electrolyze	Guildpact	non-foil	39
+241	Schismotivate	Guildpact	non-foil	58
+242	Flash Foliage	Dissension	non-foil	97
+243	Cytoshape	Dissension	non-foil	69
+244	Voidslime	Dissension	non-foil	75
+245	Krovikan Rot	Coldsnap	non-foil	89
+246	Lightning Storm	Coldsnap	non-foil	8
+247	Wipe Away	Time Spiral	non-foil	9
+248	Sudden Death	Time Spiral	non-foil	19
+249	Sudden Spoiling	Time Spiral	non-foil	26
+250	Reiterate	Time Spiral	non-foil	73
+251	Krosan Grip	Time Spiral	non-foil	45
+252	Kor Dirge	Planar Chaos	non-foil	9
+253	Fatal Frenzy	Planar Chaos	non-foil	65
+254	Dust of Moments	Future Sight	non-foil	42
+255	Even the Odds	Future Sight	non-foil	95
+256	Mercy Killing	Shadowmoor	non-foil	93
+257	Dream Fracture	Eventide	non-foil	79
+258	Unnerving Assault	Eventide	non-foil	99
+259	Moonhold	Eventide	non-foil	37
+260	Bant Charm	Shards of Alara	non-foil	75
+261	Esper Charm	Shards of Alara	non-foil	66
+262	Grixis Charm	Shards of Alara	non-foil	7
+263	Jund Charm	Shards of Alara	non-foil	27
+264	Naya Charm	Shards of Alara	non-foil	49
+265	Volcanic Fallout	Conflux	non-foil	78
+266	Filigree Fracture	Conflux	non-foil	35
+267	Double Negative	Alara Reborn	non-foil	83
+268	Intimidation Bolt	Alara Reborn	non-foil	58
+269	Flurry of Wings	Alara Reborn	non-foil	96
+270	Spell Contortion	Worldwake	non-foil	65
+271	Realms Uncharted	Rise of the Eldrazi	non-foil	45
+272	Dispense Justice	Scars of Mirrodin	non-foil	8
+273	Halt Order	Scars of Mirrodin	non-foil	68
+274	Choking Fumes	Mirrodin Besieged	non-foil	41
+275	White Sun's Zenith	Mirrodin Besieged	non-foil	56
+276	Blue Sun's Zenith	Mirrodin Besieged	non-foil	49
+277	Argent Mutation	New Phyrexia	non-foil	73
+278	Dismember	New Phyrexia	non-foil	85
+279	Beast Within	New Phyrexia	non-foil	58
+280	Midnight Haunting	Innistrad	non-foil	81
+281	Cackling Counterpart	Innistrad	non-foil	47
+282	Dissipate	Innistrad	non-foil	80
+283	Tribute to Hunger	Innistrad	non-foil	66
+284	Rush of Blood	Avacyn Restored	non-foil	78
+285	Eaten by Spiders	Avacyn Restored	non-foil	31
+286	Counterflux	Return to Ravnica	non-foil	51
+287	Sphinx's Revelation	Return to Ravnica	non-foil	6
+288	Hindervines	Gatecrash	non-foil	89
+289	Arrows of Justice	Gatecrash	non-foil	73
+290	Dragonshift	Dragon's Maze	non-foil	98
+291	Render Silent	Dragon's Maze	non-foil	86
+292	Restore the Peace	Dragon's Maze	non-foil	12
+293	Showstopper	Dragon's Maze	non-foil	37
+294	Dauntless Onslaught	Theros	non-foil	14
+295	Hero's Downfall	Theros	non-foil	8
+296	Fated Infatuation	Born of the Gods	non-foil	85
+297	Reap What Is Sown	Born of the Gods	non-foil	10
+298	Phalanx Formation	Journey into Nyx	non-foil	79
+299	Hour of Need	Journey into Nyx	non-foil	94
+300	Polymorphous Rush	Journey into Nyx	non-foil	75
+301	Nightmarish End	Journey into Nyx	non-foil	23
+302	Colossal Heroics	Journey into Nyx	non-foil	39
+303	Consign to Dust	Journey into Nyx	non-foil	4
+304	Blinding Beam	Mirrodin	non-foil	63
+305	Override	Mirrodin	non-foil	50
+306	Regress	Mirrodin	non-foil	97
+307	Wail of the Nim	Mirrodin	non-foil	73
+308	Incite War	Mirrodin	non-foil	90
+309	Metal Fatigue	Darksteel	non-foil	30
+310	Machinate	Darksteel	non-foil	14
+311	Magnetic Flux	Darksteel	non-foil	60
+312	Vex	Darksteel	non-foil	45
+313	Barbed Lightning	Darksteel	non-foil	61
+314	Unforge	Darksteel	non-foil	71
+315	Armed Response	Fifth Dawn	non-foil	75
+316	Ferocious Charge	Fifth Dawn	non-foil	28
+317	Thoughtbind	Champions of Kamigawa	non-foil	19
+318	Rend Spirit	Champions of Kamigawa	non-foil	66
+319	Yamabushi's Flame	Champions of Kamigawa	non-foil	72
+320	Oppressive Will	Saviors of Kamigawa	non-foil	7
+321	Boros Fury-Shield	Ravnica: City of Guilds	non-foil	7
+322	Smash	Ravnica: City of Guilds	non-foil	92
+323	Sundering Vitae	Ravnica: City of Guilds	non-foil	40
+324	Perplex	Ravnica: City of Guilds	non-foil	10
+325	Rally the Righteous	Ravnica: City of Guilds	non-foil	48
+326	Withstand	Guildpact	non-foil	84
+327	Runeboggle	Guildpact	non-foil	94
+328	Douse in Gloom	Guildpact	non-foil	50
+329	Wildsize	Guildpact	non-foil	13
+330	Steeling Stance	Dissension	non-foil	91
+331	Fortify	Time Spiral	non-foil	80
+332	Bewilder	Time Spiral	non-foil	12
+333	Strangling Soot	Time Spiral	non-foil	18
+334	Orcish Cannonade	Time Spiral	non-foil	55
+335	Erratic Mutation	Planar Chaos	non-foil	59
+336	Venser's Diffusion	Future Sight	non-foil	47
+337	Footbottom Feast	Lorwyn	non-foil	85
+338	Lace with Moonglove	Lorwyn	non-foil	60
+339	Luminescent Rain	Morningtide	non-foil	79
+340	Consign to Dream	Shadowmoor	non-foil	2
+341	Oona's Grace	Eventide	non-foil	33
+342	Puncture Blast	Eventide	non-foil	13
+343	Unmake	Eventide	non-foil	5
+344	Fire at Will	Eventide	non-foil	62
+345	Snakeform	Eventide	non-foil	99
+346	Resounding Wave	Shards of Alara	non-foil	65
+347	Spell Snip	Shards of Alara	non-foil	53
+348	Resounding Thunder	Shards of Alara	non-foil	72
+349	Soul's Fire	Shards of Alara	non-foil	46
+350	Branching Bolt	Shards of Alara	non-foil	7
+351	Lapse of Certainty	Conflux	non-foil	46
+352	Drag Down	Conflux	non-foil	53
+353	Dark Temper	Conflux	non-foil	55
+354	Soul Manipulation	Alara Reborn	non-foil	55
+355	Violent Outburst	Alara Reborn	non-foil	8
+356	Bold Defense	Zendikar	non-foil	2
+357	Narrow Escape	Zendikar	non-foil	72
+358	Hideous End	Zendikar	non-foil	41
+359	Slaughter Cry	Zendikar	non-foil	40
+360	Harrow	Zendikar	non-foil	39
+361	Aether Tradewinds	Worldwake	non-foil	51
+362	Twitch	Worldwake	non-foil	9
+363	Tomb Hex	Worldwake	non-foil	20
+364	Repel the Darkness	Rise of the Eldrazi	non-foil	38
+365	Induce Despair	Rise of the Eldrazi	non-foil	83
+366	Last Kiss	Rise of the Eldrazi	non-foil	96
+367	Staggershock	Rise of the Eldrazi	non-foil	5
+368	Fulgent Distraction	Scars of Mirrodin	non-foil	85
+369	Steady Progress	Scars of Mirrodin	non-foil	31
+370	Stoic Rebuttal	Scars of Mirrodin	non-foil	14
+371	Master's Call	Mirrodin Besieged	non-foil	23
+372	Rally the Forces	Mirrodin Besieged	non-foil	76
+373	Pistus Strike	Mirrodin Besieged	non-foil	6
+374	Grim Affliction	New Phyrexia	non-foil	43
+375	Volt Charge	New Phyrexia	non-foil	17
+376	Rally the Peasants	Innistrad	non-foil	17
+377	Rebuke	Innistrad	non-foil	7
+378	Forbidden Alchemy	Innistrad	non-foil	40
+379	Frightful Delusion	Innistrad	non-foil	92
+380	Hysterical Blindness	Innistrad	non-foil	96
+381	Corpse Lunge	Innistrad	non-foil	36
+382	Brimstone Volley	Innistrad	non-foil	8
+383	Gnaw to the Bone	Innistrad	non-foil	73
+384	Spidery Grasp	Innistrad	non-foil	1
+385	Bar the Door	Dark Ascension	non-foil	97
+386	Gravepurge	Dark Ascension	non-foil	10
+387	Fires of Undeath	Dark Ascension	non-foil	29
+388	Clinging Mists	Dark Ascension	non-foil	37
+389	Crushing Vines	Dark Ascension	non-foil	85
+390	Wild Hunger	Dark Ascension	non-foil	91
+391	Leap of Faith	Avacyn Restored	non-foil	71
+392	Crippling Chill	Avacyn Restored	non-foil	74
+393	Ghostly Flicker	Avacyn Restored	non-foil	53
+394	Necrobite	Avacyn Restored	non-foil	82
+395	Natural End	Avacyn Restored	non-foil	39
+396	Avenging Arrow	Return to Ravnica	non-foil	20
+397	Rootborn Defenses	Return to Ravnica	non-foil	62
+398	Annihilating Fire	Return to Ravnica	non-foil	35
+399	Aerial Predation	Return to Ravnica	non-foil	23
+400	Auger Spree	Return to Ravnica	non-foil	84
+401	Common Bond	Return to Ravnica	non-foil	54
+402	Massive Raid	Gatecrash	non-foil	52
+403	Predator's Rapport	Gatecrash	non-foil	25
+404	Psychic Strike	Gatecrash	non-foil	77
+405	Riot Control	Dragon's Maze	non-foil	59
+406	Crypt Incursion	Dragon's Maze	non-foil	74
+407	Ray of Dissolution	Theros	non-foil	89
+408	Dissolve	Theros	non-foil	67
+409	Shredding Winds	Theros	non-foil	35
+410	Roar of the Kha	Mirrodin	non-foil	35
+411	Shrapnel Blast	Mirrodin	non-foil	41
+412	Purge	Darksteel	non-foil	34
+413	Spectral Shift	Fifth Dawn	non-foil	61
+414	Devour in Shadow	Fifth Dawn	non-foil	35
+415	Plunge into Darkness	Fifth Dawn	non-foil	40
+416	Tel-Jilad Justice	Fifth Dawn	non-foil	37
+417	Squelch	Champions of Kamigawa	non-foil	79
+418	Sideswipe	Champions of Kamigawa	non-foil	2
+419	Hero's Demise	Betrayers of Kamigawa	non-foil	29
+420	Twincast	Saviors of Kamigawa	non-foil	22
+421	Bathe in Light	Ravnica: City of Guilds	non-foil	64
+422	Remand	Ravnica: City of Guilds	non-foil	48
+423	Reroute	Ravnica: City of Guilds	non-foil	80
+424	Lightning Helix	Ravnica: City of Guilds	non-foil	60
+425	Shadow of Doubt	Ravnica: City of Guilds	non-foil	79
+426	To Arms!	Guildpact	non-foil	9
+427	Nightcreep	Dissension	non-foil	10
+428	Ignorant Bliss	Dissension	non-foil	9
+429	Might of the Nephilim	Dissension	non-foil	52
+430	Flashfreeze	Coldsnap	non-foil	72
+431	Resize	Coldsnap	non-foil	91
+432	Trickbind	Time Spiral	non-foil	3
+433	Truth or Tale	Time Spiral	non-foil	50
+434	Sudden Shock	Time Spiral	non-foil	24
+435	Squall Line	Time Spiral	non-foil	76
+436	Ovinize	Planar Chaos	non-foil	78
+437	Imp's Mischief	Planar Chaos	non-foil	48
+438	Delay	Future Sight	non-foil	7
+439	Pollen Lullaby	Lorwyn	non-foil	83
+440	Familiar's Ruse	Lorwyn	non-foil	1
+441	Lammastide Weave	Lorwyn	non-foil	96
+442	Redeem the Lost	Morningtide	non-foil	67
+443	Release the Ants	Morningtide	non-foil	26
+444	Reknit	Shadowmoor	non-foil	32
+445	Glamerdye	Eventide	non-foil	40
+446	Batwing Brume	Eventide	non-foil	48
+447	Cauldron Haze	Eventide	non-foil	48
+448	Swerve	Shards of Alara	non-foil	27
+449	Celestial Purge	Conflux	non-foil	32
+450	View from Above	Conflux	non-foil	12
+451	Ignite Disorder	Conflux	non-foil	30
+452	Countersquall	Conflux	non-foil	6
+453	Zealous Persecution	Alara Reborn	non-foil	11
+454	Fight to the Death	Alara Reborn	non-foil	90
+455	Trapmaker's Snare	Zendikar	non-foil	23
+456	Smother	Worldwake	non-foil	7
+457	Urge to Feed	Worldwake	non-foil	13
+458	Comet Storm	Worldwake	non-foil	40
+459	Strength of the Tajuru	Worldwake	non-foil	83
+460	Reality Spasm	Rise of the Eldrazi	non-foil	99
+461	Unified Will	Rise of the Eldrazi	non-foil	2
+462	Go for the Throat	Mirrodin Besieged	non-foil	6
+463	Due Respect	New Phyrexia	non-foil	43
+464	Corrupted Resolve	New Phyrexia	non-foil	89
+465	Memory's Journey	Innistrad	non-foil	50
+466	Burning Oil	Dark Ascension	non-foil	71
+467	Increasing Vengeance	Dark Ascension	non-foil	61
+468	Second Guess	Avacyn Restored	non-foil	98
+469	Cyclonic Rift	Return to Ravnica	non-foil	72
+470	Ultimate Price	Return to Ravnica	non-foil	36
+471	Abrupt Decay	Return to Ravnica	non-foil	3
+472	Azorius Charm	Return to Ravnica	non-foil	64
+473	Golgari Charm	Return to Ravnica	non-foil	32
+474	Heroes' Reunion	Return to Ravnica	non-foil	72
+475	Izzet Charm	Return to Ravnica	non-foil	6
+476	Rakdos Charm	Return to Ravnica	non-foil	72
+477	Selesnya Charm	Return to Ravnica	non-foil	87
+478	Skullcrack	Gatecrash	non-foil	90
+479	Aurelia's Fury	Gatecrash	non-foil	59
+480	Boros Charm	Gatecrash	non-foil	68
+481	Dimir Charm	Gatecrash	non-foil	53
+482	Gruul Charm	Gatecrash	non-foil	75
+483	Orzhov Charm	Gatecrash	non-foil	32
+484	Signal the Clans	Gatecrash	non-foil	50
+485	Simic Charm	Gatecrash	non-foil	99
+486	Biomass Mutation	Gatecrash	non-foil	49
+487	Renounce the Guilds	Dragon's Maze	non-foil	23
+488	Warped Physique	Dragon's Maze	non-foil	14
+489	Gainsay	Theros	non-foil	43
+490	Destructive Revelry	Theros	non-foil	30
+491	Acolyte's Reward	Born of the Gods	non-foil	83
+492	Thassa's Rebuff	Born of the Gods	non-foil	21
+493	Bile Blight	Born of the Gods	non-foil	82
+494	Searing Blood	Born of the Gods	non-foil	52
+495	Unravel the Aether	Born of the Gods	non-foil	63
+496	Deicide	Journey into Nyx	non-foil	77
+497	Setessan Tactics	Journey into Nyx	non-foil	50
+498	Solidarity of Heroes	Journey into Nyx	non-foil	76
+499	Razor Barrier	Mirrodin	non-foil	63
+500	Terror	Mirrodin	non-foil	10
+501	Meteor Blast	Commander 2015	foil	17
+502	Mizzix's Mastery	Commander 2015	foil	13
+503	Rite of the Raging Storm	Commander 2015	foil	71
+504	Warchief Giant	Commander 2015	foil	10
+505	Arachnogenesis	Commander 2015	foil	64
+506	Bloodspore Thrinax	Commander 2015	foil	43
+507	Caller of the Pack	Commander 2015	foil	60
+508	Centaur Vinecrasher	Commander 2015	foil	2
+509	Ezuri's Predation	Commander 2015	foil	67
+510	Great Oak Guardian	Commander 2015	foil	27
+511	Pathbreaker Ibex	Commander 2015	foil	89
+512	Skullwinder	Commander 2015	foil	46
+513	Verdant Confluence	Commander 2015	foil	24
+514	"Anya, Merciless Angel"	Commander 2015	foil	90
+515	"Arjun, the Shifting Flame"	Commander 2015	foil	87
+516	Daxos the Returned	Commander 2015	foil	47
+517	"Ezuri, Claw of Progress"	Commander 2015	foil	59
+518	"Kalemne, Disciple of Iroas"	Commander 2015	foil	76
+519	Karlov of the Ghost Council	Commander 2015	foil	60
+520	"Kaseto, Orochi Archmage"	Commander 2015	foil	68
+521	"Mazirek, Kraul Death Priest"	Commander 2015	foil	13
+522	Meren of Clan Nel Toth	Commander 2015	foil	48
+523	Mizzix of the Izmagnus	Commander 2015	foil	18
+524	Blade of Selves	Commander 2015	foil	14
+525	Scytheclaw	Commander 2015	foil	31
+526	Seal of the Guildpact	Commander 2015	foil	73
+527	Thought Vessel	Commander 2015	foil	8
+528	Command Beacon	Commander 2015	foil	87
+529	Forge of Heroes	Commander 2018	foil	3
+530	Commander's Sphere	Commander 2018	foil	8
+531	Boreas Charger	Commander 2018	foil	97
+532	Empyrial Storm	Commander 2018	foil	4
+533	Heavenly Blademaster	Commander 2018	foil	68
+534	Loyal Unicorn	Commander 2018	foil	85
+535	Magus of the Balance	Commander 2018	foil	94
+536	Aminatou's Augury	Commander 2018	foil	67
+537	Echo Storm	Commander 2018	foil	33
+538	Estrid's Invocation	Commander 2018	foil	90
+539	Ever-Watching Threshold	Commander 2018	foil	63
+540	Loyal Drake	Commander 2018	foil	58
+541	Octopus Umbra	Commander 2018	foil	65
+542	Primordial Mist	Commander 2018	foil	99
+543	Vedalken Humiliator	Commander 2018	foil	51
+544	Bloodtracker	Commander 2018	foil	50
+545	Entreat the Dead	Commander 2018	foil	55
+546	Loyal Subordinate	Commander 2018	foil	30
+547	Night Incarnate	Commander 2018	foil	77
+548	Skull Storm	Commander 2018	foil	0
+549	Sower of Discord	Commander 2018	foil	88
+550	Emissary of Grudges	Commander 2018	foil	37
+551	Enchanter's Bane	Commander 2018	foil	5
+552	Fury Storm	Commander 2018	foil	45
+553	Loyal Apprentice	Commander 2018	foil	11
+554	Nesting Dragon	Commander 2018	foil	79
+555	Reality Scramble	Commander 2018	foil	31
+556	Saheeli's Directive	Commander 2018	foil	26
+557	Treasure Nabber	Commander 2018	foil	84
+558	"Varchild, Betrayer of Kjeldor"	Commander 2018	foil	59
+559	Crash of Rhino Beetles	Commander 2018	foil	15
+560	Genesis Storm	Commander 2018	foil	15
+561	Loyal Guardian	Commander 2018	foil	76
+562	Myth Unbound	Commander 2018	foil	91
+563	Nylea's Colossus	Commander 2018	foil	79
+564	Ravenous Slime	Commander 2018	foil	12
+565	Turntimber Sower	Commander 2018	foil	56
+566	Whiptongue Hydra	Commander 2018	foil	39
+567	"Arixmethes, Slumbering Isle"	Commander 2018	foil	25
+568	Windgrace's Judgment	Commander 2018	foil	46
+569	"Xantcha, Sleeper Agent"	Commander 2018	foil	17
+570	"Yuriko, the Tiger's Shadow"	Commander 2018	foil	53
+571	Ancient Stone Idol	Commander 2018	foil	70
+572	Coveted Jewel	Commander 2018	foil	80
+573	Endless Atlas	Commander 2018	foil	61
+574	Geode Golem	Commander 2018	foil	42
+575	Retrofitter Foundry	Commander 2018	foil	51
+576	Isolated Watchtower	Commander 2018	foil	85
+577	Unstable Obelisk	Commander 2018	foil	48
+578	"Aminatou, the Fateshifter"	Commander 2018	foil	4
+579	"Brudiclad, Telchor Engineer"	Commander 2018	foil	23
+580	"Estrid, the Masked"	Commander 2018	foil	60
+581	"Gyrus, Waker of Corpses"	Commander 2018	foil	71
+582	"Kestia, the Cultivator"	Commander 2018	foil	29
+583	Lord Windgrace	Commander 2018	foil	84
+584	"Saheeli, the Gifted"	Commander 2018	foil	36
+585	"Tawnos, Urza's Apprentice"	Commander 2018	foil	66
+586	"Thantis, the Warweaver"	Commander 2018	foil	54
+587	Tuvasa the Sunlit	Commander 2018	foil	57
+588	"Varina, Lich Queen"	Commander 2018	foil	73
+589	"Yennett, Cryptic Sovereign"	Commander 2018	foil	44
+590	Creeperhulk	Commander Anthology	foil	91
+591	Grave Sifter	Commander Anthology	foil	44
+592	Lifeblood Hydra	Commander Anthology	foil	29
+593	Siege Behemoth	Commander Anthology	foil	40
+594	Song of the Dryads	Commander Anthology	foil	87
+595	Sylvan Offering	Commander Anthology	foil	46
+596	Thunderfoot Baloth	Commander Anthology	foil	33
+597	"Titania, Protector of Argoth"	Commander Anthology	foil	59
+598	Wave of Vitriol	Commander Anthology	foil	97
+599	Wolfcaller's Howl	Commander Anthology	foil	68
+600	Assault Suit	Commander Anthology	foil	19
+601	Loreseeker's Stone	Commander Anthology	foil	44
+602	"Freyalise, Llanowar's Fury"	Commander Anthology	foil	39
+603	"Daretti, Scrap Savant"	Commander Anthology Volume II	foil	9
+604	Feldon of the Third Path	Commander Anthology Volume II	foil	50
+605	"Atraxa, Praetors' Voice"	Commander Anthology Volume II	foil	63
+606	"Ikra Shidiqi, the Usurper"	Commander Anthology Volume II	foil	41
+607	"Ishai, Ojutai Dragonspeaker"	Commander Anthology Volume II	foil	69
+608	"Reyhan, Last of the Abzan"	Commander Anthology Volume II	foil	13
+609	Duelist's Heritage	Commander Anthology Volume II	foil	29
+610	Orzhov Advokist	Commander Anthology Volume II	foil	51
+611	Sublime Exhalation	Commander Anthology Volume II	foil	58
+612	Deepglow Skate	Commander Anthology Volume II	foil	5
+613	Grip of Phyresis	Commander Anthology Volume II	foil	36
+614	Manifold Insights	Commander Anthology Volume II	foil	89
+615	Bitter Feud	Commander Anthology Volume II	foil	19
+616	Impact Resonance	Commander Anthology Volume II	foil	20
+617	Incite Rebellion	Commander Anthology Volume II	foil	59
+618	Scrap Mastery	Commander Anthology Volume II	foil	23
+619	Tyrant's Familiar	Commander Anthology Volume II	foil	46
+620	Volcanic Offering	Commander Anthology Volume II	foil	58
+621	Warmonger Hellkite	Commander Anthology Volume II	foil	31
+622	Ancient Excavation	Commander Anthology Volume II	foil	31
+623	Migratory Route	Commander Anthology Volume II	foil	71
+624	Sylvan Reclamation	Commander Anthology Volume II	foil	55
+625	Crystalline Crawler	Commander Anthology Volume II	foil	87
+626	Arcane Lighthouse	Commander Anthology Volume II	foil	69
+627	"Kydele, Chosen of Kruphix"	Commander 2016	foil	81
+628	Kynaios and Tiro of Meletis	Commander 2016	foil	70
+629	"Ludevic, Necro-Alchemist"	Commander 2016	foil	37
+630	"Ravos, Soultender"	Commander 2016	foil	91
+631	Saskia the Unyielding	Commander 2016	foil	95
+632	Sidar Kondo of Jamuraa	Commander 2016	foil	5
+633	"Silas Renn, Seeker Adept"	Commander 2016	foil	49
+634	"Tana, the Bloodsower"	Commander 2016	foil	89
+635	"Thrasios, Triton Hero"	Commander 2016	foil	18
+636	Treacherous Terrain	Commander 2016	foil	72
+637	Tymna the Weaver	Commander 2016	foil	14
+638	"Yidris, Maelstrom Wielder"	Commander 2016	foil	27
+639	Armory Automaton	Commander 2016	foil	9
+640	Boompile	Commander 2016	foil	47
+641	Conqueror's Flail	Commander 2016	foil	19
+642	Prismatic Geoscope	Commander 2016	foil	84
+643	Alms Collector	Commander 2017	foil	41
+644	"Balan, Wandering Knight"	Commander 2017	foil	96
+645	Curse of Vitality	Commander 2017	foil	33
+646	Fortunate Few	Commander 2017	foil	64
+647	Kindred Boon	Commander 2017	foil	60
+648	Scalelord Reckoner	Commander 2017	foil	75
+649	Stalking Leonin	Commander 2017	foil	92
+650	Teferi's Protection	Commander 2017	foil	31
+651	Curse of Verbosity	Commander 2017	foil	63
+652	Galecaster Colossus	Commander 2017	foil	24
+653	Kindred Discovery	Commander 2017	foil	17
+654	Magus of the Mind	Commander 2017	foil	66
+655	Portal Mage	Commander 2017	foil	38
+656	Bloodline Necromancer	Commander 2017	foil	16
+657	Boneyard Scourge	Commander 2017	foil	70
+658	Curse of Disturbance	Commander 2017	foil	50
+659	Kheru Mind-Eater	Commander 2017	foil	1
+660	Kindred Dominance	Commander 2017	foil	86
+661	New Blood	Commander 2017	foil	84
+662	Patron of the Vein	Commander 2017	foil	21
+663	Vindictive Lich	Commander 2017	foil	48
+664	Bloodsworn Steward	Commander 2017	foil	77
+665	Crimson Honor Guard	Commander 2017	foil	44
+666	Curse of Opulence	Commander 2017	foil	74
+667	Disrupt Decorum	Commander 2017	foil	66
+668	Kindred Charge	Commander 2017	foil	26
+669	Shifting Shadow	Commander 2017	foil	11
+670	Territorial Hellkite	Commander 2017	foil	68
+671	Curse of Bounty	Commander 2017	foil	85
+672	Hungry Lynx	Commander 2017	foil	4
+673	Kindred Summons	Commander 2017	foil	19
+674	Qasali Slingers	Commander 2017	foil	53
+675	Traverse the Outlands	Commander 2017	foil	46
+676	"Arahbo, Roar of the World"	Commander 2017	foil	54
+677	Fractured Identity	Commander 2017	foil	34
+678	"Inalla, Archmage Ritualist"	Commander 2017	foil	94
+679	"Licia, Sanguine Tribune"	Commander 2017	foil	17
+680	"Mairsil, the Pretender"	Commander 2017	foil	82
+681	"Mathas, Fiend Seeker"	Commander 2017	foil	29
+682	"Mirri, Weatherlight Duelist"	Commander 2017	foil	97
+683	"Nazahn, Revered Bladesmith"	Commander 2017	foil	96
+684	"O-Kagachi, Vengeful Kami"	Commander 2017	foil	9
+685	"Taigam, Ojutai Master"	Commander 2017	foil	1
+686	"Taigam, Sidisi's Hand"	Commander 2017	foil	70
+687	The Ur-Dragon	Commander 2017	foil	11
+688	"Wasitora, Nekoru Queen"	Commander 2017	foil	64
+689	Bloodforged Battle-Axe	Commander 2017	foil	72
+690	Hammer of Nazahn	Commander 2017	foil	17
+691	Heirloom Blade	Commander 2017	foil	75
+692	Herald's Horn	Commander 2017	foil	22
+693	Mirror of the Forebears	Commander 2017	foil	37
+694	"Ramos, Dragon Engine"	Commander 2017	foil	48
+695	Fell the Mighty	Commander 2017	foil	86
+696	Jazal Goldmane	Commander 2017	foil	85
+697	Necromantic Selection	Commander 2017	foil	70
+698	Path of Ancestry	Commander 2017	foil	48
+699	Angel of the Dire Hour	Commander 2014	foil	78
+700	Angelic Field Marshal	Commander 2014	foil	3
+701	Benevolent Offering	Commander 2014	foil	50
+702	Comeuppance	Commander 2014	foil	68
+703	Deploy to the Front	Commander 2014	foil	49
+704	Hallowed Spiritkeeper	Commander 2014	foil	46
+705	"Nahiri, the Lithomancer"	Commander 2014	foil	40
+706	Breaching Leviathan	Commander 2014	foil	62
+707	Domineering Will	Commander 2014	foil	8
+708	Dulcet Sirens	Commander 2014	foil	22
+709	Intellectual Offering	Commander 2014	foil	22
+710	Stitcher Geralf	Commander 2014	foil	37
+711	Stormsurge Kraken	Commander 2014	foil	34
+712	"Teferi, Temporal Archmage"	Commander 2014	foil	41
+713	Well of Ideas	Commander 2014	foil	96
+714	Demon of Wailing Agonies	Commander 2014	foil	38
+715	Flesh Carver	Commander 2014	foil	8
+716	Ghoulcaller Gisa	Commander 2014	foil	17
+717	Infernal Offering	Commander 2014	foil	72
+718	Ob Nixilis of the Black Oath	Commander 2014	foil	22
+719	Raving Dead	Commander 2014	foil	31
+720	Spoils of Blood	Commander 2014	foil	7
+721	Wake the Dead	Commander 2014	foil	31
+722	Crown of Doom	Commander 2014	foil	61
+723	Masterwork of Ingenuity	Commander 2014	foil	71
+724	Entrapment Maneuver	Commander 2016	foil	49
+725	Selfless Squire	Commander 2016	foil	71
+726	Coastal Breach	Commander 2016	foil	29
+727	Faerie Artisans	Commander 2016	foil	58
+728	Cruel Entertainment	Commander 2016	foil	35
+729	Curse of Vengeance	Commander 2016	foil	36
+730	Curtains' Call	Commander 2016	foil	52
+731	Magus of the Will	Commander 2016	foil	18
+732	Parting Thoughts	Commander 2016	foil	88
+733	Charging Cinderhorn	Commander 2016	foil	38
+734	Divergent Transformations	Commander 2016	foil	70
+735	Frenzied Fugue	Commander 2016	foil	54
+736	Goblin Spymaster	Commander 2016	foil	0
+737	Runehorn Hellkite	Commander 2016	foil	31
+738	Benefactor's Draught	Commander 2016	foil	59
+739	Evolutionary Escalation	Commander 2016	foil	65
+740	Primeval Protector	Commander 2016	foil	73
+741	Seeds of Renewal	Commander 2016	foil	63
+742	Stonehoof Chieftain	Commander 2016	foil	80
+743	"Akiri, Line-Slinger"	Commander 2016	foil	99
+744	Grave Upheaval	Commander 2016	foil	47
+745	"Kraum, Ludevic's Opus"	Commander 2016	foil	64
+746	Prepare // Fight	Amonkhet	foil	76
+747	Failure // Comply	Amonkhet	foil	43
+748	Rags // Riches	Amonkhet	foil	62
+749	Cut // Ribbons	Amonkhet	foil	82
+750	Heaven // Earth	Amonkhet	foil	42
+751	Farm // Market	Hour of Devastation	foil	21
+752	Consign // Oblivion	Hour of Devastation	foil	6
+753	Claim // Fame	Hour of Devastation	foil	26
+754	Struggle // Survive	Hour of Devastation	foil	17
+755	Appeal // Authority	Hour of Devastation	foil	96
+756	Leave // Chance	Hour of Devastation	foil	68
+757	Reason // Believe	Hour of Devastation	foil	74
+758	Grind // Dust	Hour of Devastation	foil	11
+759	Refuse // Cooperate	Hour of Devastation	foil	17
+760	Driven // Despair	Hour of Devastation	foil	86
+761	Assure // Assemble	Guilds of Ravnica	foil	10
+762	Connive // Concoct	Guilds of Ravnica	foil	70
+763	Discovery // Dispersal	Guilds of Ravnica	foil	94
+764	Expansion // Explosion	Guilds of Ravnica	foil	53
+765	Find // Finality	Guilds of Ravnica	foil	27
+766	Flower // Flourish	Guilds of Ravnica	foil	25
+767	Integrity // Intervention	Guilds of Ravnica	foil	52
+768	Invert // Invent	Guilds of Ravnica	foil	2
+769	Response // Resurgence	Guilds of Ravnica	foil	4
+770	Status // Statue	Guilds of Ravnica	foil	68
+771	Bedeck // Bedazzle	Ravnica Allegiance	foil	68
+772	Carnival // Carnage	Ravnica Allegiance	foil	99
+773	Collision // Colossus	Ravnica Allegiance	foil	78
+774	Consecrate // Consume	Ravnica Allegiance	foil	30
+775	Depose // Deploy	Ravnica Allegiance	foil	39
+776	Incubation // Incongruity	Ravnica Allegiance	foil	37
+777	Repudiate // Replicate	Ravnica Allegiance	foil	0
+778	Revival // Revenge	Ravnica Allegiance	foil	73
+779	Thrash // Threat	Ravnica Allegiance	foil	1
+780	Warrant // Warden	Ravnica Allegiance	foil	9
+781	Stand // Deliver	Invasion	foil	96
+782	Spite // Malice	Invasion	foil	95
+783	Pain // Suffering	Invasion	foil	66
+784	Wax // Wane	Invasion	foil	52
+785	Illusion // Reality	Apocalypse	foil	15
+786	Life // Death	Apocalypse	foil	60
+787	Night // Day	Apocalypse	foil	13
+788	Order // Chaos	Apocalypse	foil	76
+789	Fire // Ice	Apocalypse	foil	70
+790	Dead // Gone	Planar Chaos	foil	49
+791	Cloistered Youth // Unholy Fiend	Innistrad	foil	52
+792	Thraben Sentry // Thraben Militia	Innistrad	foil	40
+793	Civilized Scholar // Homicidal Brute	Innistrad	foil	60
+794	Delver of Secrets // Insectile Aberration	Innistrad	foil	14
+795	Ludevic's Test Subject // Ludevic's Abomination	Innistrad	foil	81
+796	Bloodline Keeper // Lord of Lineage	Innistrad	foil	85
+797	Screeching Bat // Stalking Vampire	Innistrad	foil	65
+798	Hanweir Watchkeep // Bane of Hanweir	Innistrad	foil	89
+799	Instigator Gang // Wildblood Pack	Innistrad	foil	93
+800	Kruin Outlaw // Terror of Kruin Pass	Innistrad	foil	4
+801	Reckless Waif // Merciless Predator	Innistrad	foil	25
+802	Tormented Pariah // Rampaging Werewolf	Innistrad	foil	30
+803	Village Ironsmith // Ironfang	Innistrad	foil	15
+804	Daybreak Ranger // Nightfall Predator	Innistrad	foil	66
+805	"Garruk Relentless // Garruk, the Veil-Cursed"	Innistrad	foil	47
+806	Gatstaf Shepherd // Gatstaf Howler	Innistrad	foil	74
+807	Grizzled Outcasts // Krallenhorde Wantons	Innistrad	foil	39
+808	Mayor of Avabruck // Howlpack Alpha	Innistrad	foil	48
+809	Ulvenwald Mystics // Ulvenwald Primordials	Innistrad	foil	81
+810	Villagers of Estwald // Howlpack of Estwald	Innistrad	foil	17
+811	Loyal Cathar // Unhallowed Cathar	Dark Ascension	foil	95
+812	Soul Seizer // Ghastly Haunting	Dark Ascension	foil	41
+813	Chosen of Markov // Markov's Servant	Dark Ascension	foil	20
+814	Ravenous Demon // Archdemon of Greed	Dark Ascension	foil	85
+815	Afflicted Deserter // Werewolf Ransacker	Dark Ascension	foil	69
+816	Hinterland Hermit // Hinterland Scourge	Dark Ascension	foil	98
+817	Mondronen Shaman // Tovolar's Magehunter	Dark Ascension	foil	74
+818	Lambholt Elder // Silverpelt Werewolf	Dark Ascension	foil	36
+819	Scorned Villager // Moonscarred Werewolf	Dark Ascension	foil	40
+820	Wolfbitten Captive // Krallenhorde Killer	Dark Ascension	foil	17
+821	Huntmaster of the Fells // Ravager of the Fells	Dark Ascension	foil	59
+822	Chalice of Life // Chalice of Death	Dark Ascension	foil	12
+823	"Elbrus, the Binding Blade // Withengar Unbound"	Dark Ascension	foil	67
+824	"Archangel Avacyn // Avacyn, the Purifier"	Shadows over Innistrad	foil	54
+825	Avacynian Missionaries // Lunarch Inquisitors	Shadows over Innistrad	foil	70
+826	Hanweir Militia Captain // Westvale Cult Leader	Shadows over Innistrad	foil	39
+827	Pious Evangel // Wayward Disciple	Shadows over Innistrad	foil	71
+828	Town Gossipmonger // Incited Rabble	Shadows over Innistrad	foil	20
+829	Aberrant Researcher // Perfected Form	Shadows over Innistrad	foil	17
+830	Daring Sleuth // Bearer of Overwhelming Truths	Shadows over Innistrad	foil	92
+831	Startled Awake // Persistent Nightmare	Shadows over Innistrad	foil	75
+832	Thing in the Ice // Awoken Horror	Shadows over Innistrad	foil	24
+833	Uninvited Geist // Unimpeded Trespasser	Shadows over Innistrad	foil	44
+834	Accursed Witch // Infectious Curse	Shadows over Innistrad	foil	55
+835	Elusive Tormentor // Insidious Mist	Shadows over Innistrad	foil	76
+836	Heir of Falkenrath // Heir to the Night	Shadows over Innistrad	foil	87
+837	Kindly Stranger // Demon-Possessed Witch	Shadows over Innistrad	foil	86
+838	Breakneck Rider // Neck Breaker	Shadows over Innistrad	foil	79
+839	Convicted Killer // Branded Howler	Shadows over Innistrad	foil	20
+840	Gatstaf Arsonists // Gatstaf Ravagers	Shadows over Innistrad	foil	45
+841	Geier Reach Bandit // Vildin-Pack Alpha	Shadows over Innistrad	foil	5
+842	Kessig Forgemaster // Flameheart Werewolf	Shadows over Innistrad	foil	31
+843	Skin Invasion // Skin Shedder	Shadows over Innistrad	foil	84
+844	Village Messenger // Moonrise Intruder	Shadows over Innistrad	foil	68
+845	Autumnal Gloom // Ancient of the Equinox	Shadows over Innistrad	foil	48
+846	Duskwatch Recruiter // Krallenhorde Howler	Shadows over Innistrad	foil	64
+847	Hermit of the Natterknolls // Lone Wolf of the Natterknolls	Shadows over Innistrad	foil	11
+848	Hinterland Logger // Timber Shredder	Shadows over Innistrad	foil	34
+849	Lambholt Pacifist // Lambholt Butcher	Shadows over Innistrad	foil	21
+850	Sage of Ancient Lore // Werewolf of Ancient Hunger	Shadows over Innistrad	foil	4
+851	Solitary Hunter // One of the Pack	Shadows over Innistrad	foil	35
+852	"Arlinn Kord // Arlinn, Embraced by the Moon"	Shadows over Innistrad	foil	55
+853	Harvest Hand // Scrounged Scythe	Shadows over Innistrad	foil	1
+854	Neglected Heirloom // Ashmouth Blade	Shadows over Innistrad	foil	60
+855	Thraben Gargoyle // Stonewing Antagonizer	Shadows over Innistrad	foil	48
+856	"Westvale Abbey // Ormendahl, Profane Prince"	Shadows over Innistrad	foil	19
+857	Extricator of Sin // Extricator of Flesh	Eldritch Moon	foil	11
+858	Lone Rider // It That Rides as One	Eldritch Moon	foil	0
+859	Curious Homunculus // Voracious Reader	Eldritch Moon	foil	98
+860	Docent of Perfection // Final Iteration	Eldritch Moon	foil	70
+861	Grizzled Angler // Grisly Anglerfish	Eldritch Moon	foil	64
+862	Voldaren Pariah // Abolisher of Bloodlines	Eldritch Moon	foil	60
+863	Conduit of Storms // Conduit of Emrakul	Eldritch Moon	foil	20
+864	Smoldering Werewolf // Erupting Dreadwolf	Eldritch Moon	foil	83
+865	Vildin-Pack Outcast // Dronepack Kindred	Eldritch Moon	foil	32
+866	Kessig Prowler // Sinuous Predator	Eldritch Moon	foil	68
+867	Shrill Howler // Howling Chorus	Eldritch Moon	foil	56
+868	Tangleclaw Werewolf // Fibrous Entangler	Eldritch Moon	foil	91
+869	Ulvenwald Captive // Ulvenwald Abomination	Eldritch Moon	foil	12
+870	"Ulrich of the Krallenhorde // Ulrich, Uncontested Alpha"	Eldritch Moon	foil	47
+871	Cryptolith Fragment // Aurora of Emrakul	Eldritch Moon	foil	41
+872	"Legion's Landing // Adanto, the First Fort"	Ixalan	foil	77
+873	"Search for Azcanta // Azcanta, the Sunken Ruin"	Ixalan	foil	17
+874	Arguel's Blood Fast // Temple of Aclazotz	Ixalan	foil	30
+875	Vance's Blasting Cannons // Spitfire Bastion	Ixalan	foil	6
+876	"Growing Rites of Itlimoc // Itlimoc, Cradle of the Sun"	Ixalan	foil	82
+877	Conqueror's Galleon // Conqueror's Foothold	Ixalan	foil	8
+878	Dowsing Dagger // Lost Vale	Ixalan	foil	11
+879	Primal Amulet // Primal Wellspring	Ixalan	foil	21
+880	Thaumatic Compass // Spires of Orazca	Ixalan	foil	14
+881	Treasure Map // Treasure Cove	Ixalan	foil	40
+882	Hadana's Climb // Winged Temple of Orazca	Rivals of Ixalan	foil	4
+883	"Journey to Eternity // Atzal, Cave of Eternity"	Rivals of Ixalan	foil	23
+884	"Path of Mettle // Metzali, Tower of Triumph"	Rivals of Ixalan	foil	99
+885	Profane Procession // Tomb of the Dusk Rose	Rivals of Ixalan	foil	69
+886	Storm the Vault // Vault of Catlacan	Rivals of Ixalan	foil	15
+887	Azor's Gateway // Sanctum of the Sun	Rivals of Ixalan	foil	69
+888	Golden Guardian // Gold-Forge Garrison	Rivals of Ixalan	foil	57
+889	Bushi Tenderfoot // Kenzo the Hardhearted	Champions of Kamigawa	foil	10
+890	"Kitsune Mystic // Autumn-Tail, Kitsune Sage"	Champions of Kamigawa	foil	66
+891	Jushi Apprentice // Tomoya the Revealer	Champions of Kamigawa	foil	73
+892	"Student of Elements // Tobita, Master of Winds"	Champions of Kamigawa	foil	98
+893	Nezumi Graverobber // Nighteyes the Desecrator	Champions of Kamigawa	foil	15
+894	Nezumi Shortfang // Stabwhisker the Odious	Champions of Kamigawa	foil	6
+895	"Akki Lavarunner // Tok-Tok, Volcano Born"	Champions of Kamigawa	foil	64
+896	Initiate of Blood // Goka the Unjust	Champions of Kamigawa	foil	9
+897	"Budoka Gardener // Dokai, Weaver of Life"	Champions of Kamigawa	foil	29
+898	"Orochi Eggwatcher // Shidako, Broodmistress"	Champions of Kamigawa	foil	95
+899	"Faithful Squire // Kaiso, Memory of Loyalty"	Betrayers of Kamigawa	foil	69
+900	Callow Jushi // Jaraku the Interloper	Betrayers of Kamigawa	foil	21
+901	Hired Muscle // Scarmaker	Betrayers of Kamigawa	foil	17
+902	"Cunning Bandit // Azamuki, Treachery Incarnate"	Betrayers of Kamigawa	foil	2
+903	"Budoka Pupil // Ichiga, Who Topples Oaks"	Betrayers of Kamigawa	foil	58
+904	"Rune-Tail, Kitsune Ascendant // Rune-Tail's Essence"	Saviors of Kamigawa	foil	72
+905	"Erayo, Soratami Ascendant // Erayo's Essence"	Saviors of Kamigawa	foil	59
+906	"Kuon, Ogre Ascendant // Kuon's Essence"	Saviors of Kamigawa	foil	89
+907	"Homura, Human Ascendant // Homura's Essence"	Saviors of Kamigawa	foil	11
+908	"Sasaya, Orochi Ascendant // Sasaya's Essence"	Saviors of Kamigawa	foil	60
+909	"Kytheon, Hero of Akros // Gideon, Battle-Forged"	Magic Origins	foil	27
+910	"Jace, Vryn's Prodigy // Jace, Telepath Unbound"	Magic Origins	foil	56
+911	"Liliana, Heretical Healer // Liliana, Defiant Necromancer"	Magic Origins	foil	19
+912	"Chandra, Fire of Kaladesh // Chandra, Roaring Flame"	Magic Origins	foil	52
+913	"Nissa, Vastwood Seer // Nissa, Sage Animist"	Magic Origins	foil	50
+914	"Nicol Bolas, the Ravager // Nicol Bolas, the Arisen"	Core Set 2019	foil	76
+915	Assault // Battery	Planechase	foil	74
+916	Rise // Fall	Duel Decks: Ajani vs. Nicol Bolas	foil	52
+917	Rough // Tumble	Commander 2013	foil	22
+918	Trial // Error	Commander 2016	foil	12
+919	Turn // Burn	GRN Guild Kit	foil	72
+920	"Brisela, Voice of Nightmares"	Eldritch Moon Promos	foil	80
+921	"Hanweir, the Writhing Township"	Eldritch Moon Promos	foil	54
+922	Dusk // Dawn	Amonkhet Promos	foil	67
+923	Commit // Memory	Amonkhet Promos	foil	77
+924	Never // Return	Amonkhet Promos	foil	16
+925	Insult // Injury	Amonkhet Promos	foil	48
+926	Mouth // Feed	Amonkhet Promos	foil	96
+927	Breaking // Entering	Dragon's Maze Promos	foil	5
+928	Guul Draz Assassin	Rise of the Eldrazi Promos	foil	24
+929	Lord of Shatterskull Pass	Rise of the Eldrazi Promos	foil	32
+930	Fall of the Thran	Dominaria Promos	foil	69
+931	History of Benalia	Dominaria Promos	foil	39
+932	The Antiquities War	Dominaria Promos	foil	10
+933	The Mirari Conjecture	Dominaria Promos	foil	23
+934	Phyrexian Scriptures	Dominaria Promos	foil	0
+935	Rite of Belzenlok	Dominaria Promos	foil	74
+936	The First Eruption	Dominaria Promos	foil	65
+937	The Mending of Dominaria	Dominaria Promos	foil	37
+938	Supply // Demand	Salvat 2005	foil	56
+939	Caravan Escort	Rise of the Eldrazi	foil	18
+940	Hedron-Field Purists	Rise of the Eldrazi	foil	39
+941	Ikiral Outrider	Rise of the Eldrazi	foil	88
+942	Kabira Vindicator	Rise of the Eldrazi	foil	79
+943	Knight of Cliffhaven	Rise of the Eldrazi	foil	92
+944	Student of Warfare	Rise of the Eldrazi	foil	80
+945	Transcendent Master	Rise of the Eldrazi	foil	62
+946	Coralhelm Commander	Rise of the Eldrazi	foil	1
+947	Echo Mage	Rise of the Eldrazi	foil	2
+948	Enclave Cryptologist	Rise of the Eldrazi	foil	6
+949	Hada Spy Patrol	Rise of the Eldrazi	foil	38
+950	Halimar Wavewatch	Rise of the Eldrazi	foil	40
+951	Lighthouse Chronologist	Rise of the Eldrazi	foil	44
+952	Skywatcher Adept	Rise of the Eldrazi	foil	13
+953	Nirkana Cutthroat	Rise of the Eldrazi	foil	24
+954	Null Champion	Rise of the Eldrazi	foil	97
+955	Zulaport Enforcer	Rise of the Eldrazi	foil	10
+956	Brimstone Mage	Rise of the Eldrazi	foil	67
+957	Kargan Dragonlord	Rise of the Eldrazi	foil	16
+958	Beastbreaker of Bala Ged	Rise of the Eldrazi	foil	76
+959	Joraga Treespeaker	Rise of the Eldrazi	foil	56
+960	Kazandu Tuskcaller	Rise of the Eldrazi	foil	35
+961	Chittering Host	Eldritch Moon	foil	90
+962	Triumph of Gerrard	Dominaria	foil	67
+963	Time of Ice	Dominaria	foil	99
+964	Chainer's Torment	Dominaria	foil	32
+965	The Eldest Reborn	Dominaria	foil	43
+966	The Flame of Keld	Dominaria	foil	19
+967	Song of Freyalise	Dominaria	foil	59
+968	Hexdrinker	Modern Horizons	foil	14
+969	Bound // Determined	Dissension	foil	24
+970	Crime // Punishment	Dissension	foil	66
+971	Hide // Seek	Dissension	foil	72
+972	Hit // Run	Dissension	foil	83
+973	Odds // Ends	Dissension	foil	43
+974	Pure // Simple	Dissension	foil	80
+975	Research // Development	Dissension	foil	25
+976	Boom // Bust	Planar Chaos	foil	49
+977	Alive // Well	Dragon's Maze	foil	21
+978	Armed // Dangerous	Dragon's Maze	foil	60
+979	Beck // Call	Dragon's Maze	foil	80
+980	Catch // Release	Dragon's Maze	foil	55
+981	Down // Dirty	Dragon's Maze	foil	15
+982	Far // Away	Dragon's Maze	foil	42
+983	Flesh // Blood	Dragon's Maze	foil	48
+984	Give // Take	Dragon's Maze	foil	77
+985	Profit // Loss	Dragon's Maze	foil	64
+986	Protect // Serve	Dragon's Maze	foil	18
+987	Ready // Willing	Dragon's Maze	foil	47
+988	Toil // Trouble	Dragon's Maze	foil	0
+989	Wear // Tear	Dragon's Maze	foil	99
+990	Start // Finish	Amonkhet	foil	67
+991	Reduce // Rubble	Amonkhet	foil	91
+992	Destined // Lead	Amonkhet	foil	53
+993	Onward // Victory	Amonkhet	foil	35
+994	Spring // Mind	Amonkhet	foil	74
+995	Hanweir Battlements	Eldritch Moon Promos	foil	91
+996	"Bruna, the Fading Light"	Eldritch Moon Promos	foil	48
+997	"Gisela, the Broken Blade"	Eldritch Moon Promos	foil	78
+998	Hanweir Garrison	Eldritch Moon Promos	foil	37
+999	Graf Rats	Eldritch Moon	foil	93
+1000	Midnight Scavengers	Eldritch Moon	foil	97
