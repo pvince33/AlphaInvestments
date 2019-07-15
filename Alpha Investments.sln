@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DM Solution Documentation", "DM Solution Documentation", "{A79D8A2C-F365-49CA-82B8-A7D87862821E}"
+	ProjectSection(SolutionItems) = preProject
+		Alpha Investments Data Warehouse Objects Worksheet.xlsx = Alpha Investments Data Warehouse Objects Worksheet.xlsx
+		Alpha Investments Solution Doc.docx = Alpha Investments Solution Doc.docx
+		Alpha Investments Star Schema.vsdx = Alpha Investments Star Schema.vsdx
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DM Build", "DM Build", "{AA8958DA-4084-44E3-91FC-A6E5FB926EFB}"
+	ProjectSection(SolutionItems) = preProject
+		..\AlphaInvestmentsDM.sql = ..\AlphaInvestmentsDM.sql
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {589BB5C7-638C-48FB-B343-9ABD87F266EF}
+	EndGlobalSection
+EndGlobal
